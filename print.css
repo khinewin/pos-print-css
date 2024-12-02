@@ -1,0 +1,22 @@
+
+@font-face {
+    font-family: "nts-regular";
+    src: url("natosan/NotoSansMyanmar-Regular.ttf");
+  }
+  @font-face {
+    font-family: "nts-bold";
+    src: url("natosan/NotoSansMyanmar-Bold.ttf");
+  }
+  @font-face {
+    font-family: "pds-regular";
+    src: url("pyidaungsu/Pyidaungsu-Book-1.8.3_Regular.ttf");
+  }
+  @font-face {
+    font-family: "pds-bold";
+    src: url("pyidaungsu/Pyidaungsu-Book-1.8.3_Bold.ttf");
+  }
+.table td {
+    padding: 3px !important;
+    line-height: auto;
+    font-family: "pds-bold";
+}
